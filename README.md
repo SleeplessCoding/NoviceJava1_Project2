@@ -1,5 +1,5 @@
 # NoviceJava1_Project2
-100% Understanding and Pseudocode for week 2 assignment:
+100% Understanding Pseudocode:
 
 Start 
 
